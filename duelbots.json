@@ -3,7 +3,7 @@
   "symbol": "DUEL",
   "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n An army of Duelbots that benefit from supporting innovative crypto games and experiences on the Duel Casino platform. It's time to DUEL! \n\n You can have your free Mint right to our limited NFT collection during the day on our site.🔽",
   "seller_fee_basis_points": 100,
-  "external_url": "https://duelbotsmintnft.netlify.app",
+  "external_url": "https://duelbots.web.app",
   "edition": "Alpha",
   "background_color": "000000",
   "attributes": [
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "address": "9oWnjgsYH2YT9dx37VrESzVbvdo8YKSWENL6YrHPvaG3",
         "share": 100
       }
     ],
